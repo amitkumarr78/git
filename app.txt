@@ -1,3 +1,7 @@
 this is not that much easy
 lets do it
 last time branchs
+
+while i=5;
+print(i)
+i=+1
