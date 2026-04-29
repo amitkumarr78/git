@@ -2,12 +2,6 @@ pipeline {
   agent any
 
   stages {
-    stage('Clone') {
-      steps {
-        git 'https://github.com/amitkumarr78/git.git'
-      }
-    }
-
     stage('Test') {
       steps {
         echo "Webhook working"
