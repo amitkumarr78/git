@@ -79,14 +79,3 @@ Accessible via public IP and port 8081
 - Deploy using Kubernetes  
 - Implement zero-downtime deployment  
 
----
-
-## 👨‍💻 Author
-
-Amit Kumar  
-
-GitHub: https://github.com/amitkumarr78  
-
----
-
-⭐ If you found this project helpful, feel free to give it a star!
